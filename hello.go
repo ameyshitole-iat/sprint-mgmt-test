@@ -1,8 +1,6 @@
 package main
 
-import "fmt"
+func main() {
 
-public func main(){
-
-  fmt.println("Hello world!")
+	fmt.println("Hello world!")
 }
