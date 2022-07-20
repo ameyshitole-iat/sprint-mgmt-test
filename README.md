@@ -1,3 +1,4 @@
 # sprint-mgmt-test
 
-SM-03 test commit 2
+sample change 1
+
